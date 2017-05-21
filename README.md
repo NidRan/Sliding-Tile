@@ -15,6 +15,7 @@ The End Configuration can be achieved only when the Start State is solvable.
 The Start Configuration  is solvable if it satisfies the following conditions:
  
  i. If the width is odd, every solvable state has an even number of inversions.
+ 
  ii. If the width is even, every solvable state has: 
  
     a) an even number of inversions if the empty tile is on an odd numbered row counting from the bottom; 
